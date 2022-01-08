@@ -1,11 +1,11 @@
-<h2> Hello :) I'm Priyanshu Pathak.<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h2>
+<h2> Hello :) I'm Priyanshu Pathak.</h2>
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 I’m currently pursuing Computer Science and Engineering from Ahmedabad University.
 - 👀 I’m interested in becoming a Software Engineer.
-- 🐱‍👤 I love doing Competitive Programming
+- 👤 I love doing Competitive Programming
 - 💻 I’m looking to collaborate on different hands-on projects using Python, Java and C++.
 
 <h3>🛠 Tech Stack</h3>
