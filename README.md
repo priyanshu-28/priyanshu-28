@@ -5,12 +5,12 @@
 
 - 🎓 I’m currently pursuing Computer Science and Engineering from Ahmedabad University.
 - 👀 I’m interested in becoming a Software Engineer.
-- 👤 I love doing Competitive Programming
-- 💻 I’m looking to collaborate on different hands-on projects using Python, Java and C++.
+- 👤 I love doing Competitive Programming and developing projects.
+- 💻 I have worked with C++, HTML, CSS, React.js, Node.js, Python, TypeScript, SQL, PostgreSQL.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python  | Java | C++  
+- 💻 &nbsp; Python  | Java | C++ | HTML | CSS | React.js | Node.js | Python | TypeScript | SQL | PostgreSQL.
 
 <br>
 
