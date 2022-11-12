@@ -3,6 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/priyanshu.p.svg)](https://codeforces.com/profile/priyanshu.p)
+
 - 🎓 I’m currently pursuing Computer Science and Engineering from Ahmedabad University.
 - 👀 I’m interested in becoming a Software Engineer.
 - 👤 I love doing Competitive Programming and developing projects.
