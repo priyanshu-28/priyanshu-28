@@ -3,8 +3,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-![Codeforces](https://cp-logo.vercel.app/codeforces/priyanshu.p)
-![LeetCode](https://cp-logo.vercel.app/leetcode/priyanshu_p)
 - 🎓 I’m currently pursuing Computer Science and Engineering from Ahmedabad University.
 - 👀 I’m interested in becoming a Software Engineer.
 - 👤 I love doing Competitive Programming and developing projects.
