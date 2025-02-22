@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 Graduated in Computer Science and Engineering from Ahmedabad University.
-- 👀 Software Engineer at Juspay.
+- 👀 Software Engineer at Zeta.
 - 👤 I love doing Competitive Programming in my free time.
 - 💻 I have worked with C++, Python, Java, Svelte, Haskell, React.js, Node.js, TypeScript, SQL, and PostgreSQL.
 
